@@ -1,6 +1,8 @@
-# GreyOrange Warehouse Automation Project Management Analysis
+### Saket Mishra
 
-This project provides a full end‑to‑end analytic workflow for a Project Manager overseeing
+# GreyOrange Warehouse Automation Project Management
+
+This project provides a full end‑to‑end workflow for a Project Manager overseeing
 large‑scale warehouse automation deployments for **GreyOrange**. GreyOrange’s
 Relay Pick solution leverages a hybrid fleet of **vertical tote movers (VTMs)** and
 **horizontal tote movers (HTMs)**. VTMs move totes within aisles and rearrange them
